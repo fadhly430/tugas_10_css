@@ -1,0 +1,26 @@
+body{
+width: 960px;
+height: 950px;
+background-image: radial-gradient( circle at top right, white, red);
+z-index: 1px;
+}
+
+.satu{
+
+margin: 10px;
+  width: 450px;
+  height: 300px;
+  margin-left: 400px;
+  background-image: radial-gradient( circle at bottom, white, blue);
+  z-index: 2px;
+background-position: center;
+}
+
+.dua{
+  width: 450px;
+  height: 100px;
+  margin-left: 400px;
+  background-image: radial-gradient( circle at bottom, white, blue);
+  z-index: 2px;
+background-position: center;
+}
